@@ -5,4 +5,4 @@ and snap turning or continuous turning. The player is also able to interact with
 ## Tasks to do
 Implement a screen where the player can choose which set of questions they want to take on
 ## Issues
-There is a bug which sometimes occurs that causes the game to break where if the player selects a movement type too quickly it throws an error from the editor - WIP
+Save and Loading isn't working as intended. - WIP
